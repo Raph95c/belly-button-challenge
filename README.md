@@ -10,4 +10,4 @@ Url: file:///Users/raphoun/Documents/GitHub/belly-button-challenge/Starter_Code-
 
 # Note
 
-The app.js is located in the Starter
+The app.js is located in the Starter/ static/js file 
